@@ -11,3 +11,5 @@ cd .. - step back
 git add <nayev soubor>
 git status
 git comit -m "ymen
+
+nova vec
