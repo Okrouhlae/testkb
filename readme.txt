@@ -1,5 +1,5 @@
 hezky txt
-aaaa
+iiiiii
 mamaaaaa
 dir=ls
 git clone - clone
