@@ -1,5 +1,9 @@
 hezky txt
 aaaa
 mamaaaaa
-uuu
-i donttt
+dir=ls
+git clone - clone
+git pull - aktualite
+mkdir - make repositor
+cd - go to
+cd .. - step back
