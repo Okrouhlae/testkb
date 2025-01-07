@@ -7,3 +7,6 @@ git pull - aktualite
 mkdir - make repositor
 cd - go to
 cd .. - step back
+
+git add <nayev soubor>
+git status
